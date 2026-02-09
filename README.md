@@ -28,16 +28,14 @@
 ## 🧩 Tech Stack
 
 <div align="center">
-
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,laravel&perline=4" />
-  <br />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,laravel&perline=4" alt="Languages" />
+  <br /><br />
   <!-- Frameworks & Tools -->
-  <img src="https://skillicons.dev/icons?i=react,ionic,tailwind,bootstrap&perline=4" />
-  <br />
+  <img src="https://skillicons.dev/icons?i=react,ionic,tailwind,bootstrap&perline=4" alt="Frameworks & Tools" />
+  <br /><br />
   <!-- Databases & DevOps -->
-  <img src="https://skillicons.dev/icons?i=mysql,nodejs,git,github&perline=4" />
-
+  <img src="https://skillicons.dev/icons?i=mysql,nodejs,git,github&perline=4" alt="Databases & DevOps" />
 </div>
 
 ---
