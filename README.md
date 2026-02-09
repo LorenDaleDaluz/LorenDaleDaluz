@@ -21,7 +21,7 @@
 
 - 💻 I’m Loren Dale Daluz, a Full-Stack Developer
 - 🌱 Currently learning React/Laravel/Inertia
-- 🎯 Goal: Master Full-Stack Developer
+
 
 ---
 
