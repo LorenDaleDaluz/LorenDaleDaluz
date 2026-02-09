@@ -43,9 +43,14 @@
 
 ## 🤝 Let’s Connect
 
+
   <a href="mailto:lorendaledaluz.neust@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email me" />: lorendaledaluz.neust@gmail.com
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
+  <a href="https://instagram.com/daledlz">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+
 
 
 ---
