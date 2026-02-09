@@ -42,11 +42,11 @@
 ---
 
 ## 🤝 Let’s Connect
-<div align="center">
+
   <a href="mailto:lorendaledaluz.neust@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email me" /> mailto: lorendaledaluz.neust@gmail.com
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email me" />: lorendaledaluz.neust@gmail.com
   </a>
-</div> 
+
 
 ---
 
