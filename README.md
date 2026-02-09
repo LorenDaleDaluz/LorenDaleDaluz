@@ -26,6 +26,7 @@
 ---
 
 ## 🧩 Tech Stack<div align="center">
+  <div align="center">
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,cpp,laravel&perline=5" alt="Languages" />
   <br /><br />
