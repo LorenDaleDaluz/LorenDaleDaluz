@@ -30,13 +30,13 @@
 <div align="center">
 
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,laravel&perline=4" />
   <br />
   <!-- Frameworks & Tools -->
-  <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,tailwind,bootstrap&perline=7" />
+  <img src="https://skillicons.dev/icons?i=react,ionic,tailwind,bootstrap&perline=4" />
   <br />
   <!-- Databases & DevOps -->
-  <img src="https://skillicons.dev/icons?i=mysql,git,github&perline=7" />
+  <img src="https://skillicons.dev/icons?i=mysql,nodejs,git,github&perline=4" />
 
 </div>
 
