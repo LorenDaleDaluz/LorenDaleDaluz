@@ -49,7 +49,7 @@
 </table>
 
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=LORENDALEDALUZ&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=lorendaledaluz&theme=tokyonight&hide_border=false" />
 
 </div>
 
