@@ -43,7 +43,7 @@
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lorendaledaluz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs&v=2" />
     </td>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lorendaledaluz&layout=compact&theme=tokyonight&v=2" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sdeg77&layout=compact&theme=tokyonight&v=2" />
     </td>
   </tr>
 </table>
