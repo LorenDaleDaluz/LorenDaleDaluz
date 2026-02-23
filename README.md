@@ -72,7 +72,8 @@
 
 
 ---
-
+<div align="center">
+  
 ## 🤝 Let’s Connect
 
 
@@ -82,6 +83,8 @@
   <a href="https://instagram.com/daledlz">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
+
+  </div>
 
 
 
